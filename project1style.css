@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+}
+body {
+   background-color: #000000;
+
+}
+.banana {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.logo {
+    text-align: left;
+    margin-left: 2%;
+}
+
+header {
+    height: 20%;
+    text-align: right ;
+    padding-top: 24px;
+}
+
+p {
+    color: white;
+}
+
+main {
+    text-align: right;
+    padding-left: 2%;
+}
+footer {
+    height:100px;
+}
+.nav3 {
+    padding-left: 2%;
+    font-size: 30%;
+    text-align: left;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 300%;
+}
+
+a:hover {
+    font-size: 400%;
+}
+
+nav {
+    height: 768;
+    width: 1366;
+    text-align: right;
+    margin-right: 20%;
+}
+footer {
+    font-size: 10px;
+}
+
+.one a {
+    color: #cc0000;
+    }
+.two a {
+    color: #cc6600;
+}
+.three a {
+    color: #0000cc;
+}
+.four a {
+    color: #006600;
+}
+.five a {
+    color: #df3edf;
+}
+.six a {
+    color: #cc9900;
+}
+.seven a {
+    color: #999999;
+}
+.eight a {
+    color: #6666ff;
+}
+
+.todayTEXT {
+    text-align: right;
+    width: 500px;
+    height: 500px;
+
+}
+h1 {
+    color: #cc6600;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tonightH1 {
+    color:#0000cc;
+}
+.interviewsH1 {
+    color:#006600;
+}
+.reviewsH1 {
+    color: #df3edf;
+}
+.followH1 {
+    color: #cc9900;
+}
